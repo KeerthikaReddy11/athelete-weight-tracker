@@ -1,5 +1,3 @@
-Athlete Weight Tracker
-
 A simple Python console for tracking athletes' weight — ideal for sports like wrestling where managing weight classes is critical.
 
 Features
